@@ -3,6 +3,7 @@ import glob
 import time
 from src import config, gemini_service, data_manager, extractor, image_extractor
 
+"Hola"
 def run_data_extraction():
     print("\n--- STEP 1: DATA EXTRACTION ---")
     try:
