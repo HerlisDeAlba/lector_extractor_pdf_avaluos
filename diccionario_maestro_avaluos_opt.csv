@@ -1,0 +1,221 @@
+﻿CAMPO;DESCRIPCION
+ARCHIVO;Nombre del archivo PDF del avalúo procesado
+EMP_VALUADORA;Empresa valuadora que emite el avalúo
+NIT_EMP;NIT de la empresa valuadora
+DIR_SEDE_PRIN;Dirección de la sede principal de la empresa valuadora
+DIR_SEDE_SEC;Dirección de sede secundaria o sucursal
+LINEA_NAC;Línea nacional de contacto de la empresa valuadora
+CORREO_EMP;Correo electrónico oficial de la empresa valuadora
+NOMBRE_DOC;Nombre o título del documento de avalúo
+FOLIO_EMP_EVAL;Número de folio interno asignado por la empresa valuadora
+FOLIO_ENTIDAD;Número de folio asignado por la entidad solicitante
+TOTAL_PAGINAS;Número total de páginas del documento
+DIR_COMPLETA;Dirección completa del inmueble
+FECHA_VISITA;Fecha de visita técnica al inmueble
+FECHA_AVALUO;Fecha de emisión del avalúo
+DEP_GRAL;Departamento donde se ubica el inmueble
+MUN_GRAL;Municipio donde se ubica el inmueble
+BARRIO_GRAL;Barrio o sector del inmueble
+COD_DANE;Código DANE del municipio
+TIPO_AVA;Tipo de avalúo
+FINALIDAD;Finalidad del avalúo
+OBJETO;Objeto del avalúo
+CONJUNTO_URB;Nombre del conjunto o urbanización
+ENTIDAD_SOLICITANTE;Entidad que solicita el avalúo
+SOL_NOMBRE;Nombre del solicitante
+SOL_TIPO_ID;Tipo de documento de identificación del solicitante
+SOL_NUM_ID;Número de identificación del solicitante
+TIPO_BIEN;Tipo de bien inmueble
+REGIMEN_PROP;Régimen de propiedad del inmueble
+SECTOR_RUR_URB;Clasificación rural o urbana del sector
+VIS_SN;Vivienda de interés social (Sí / No)
+ESTRATO;Estrato socioeconómico
+PROD_FINANCIERO;Producto financiero
+TIPO_MATRICULA;Tipo de matrícula inmobiliaria
+NUM_MATRICULA;Número de matrícula inmobiliaria
+LATITUD;Latitud geográfica del inmueble
+LONGITUD;Longitud geográfica del inmueble
+DESC_GARANTIA;Texto descriptivo de la garantía
+CUMPLE_COND_SN;Cumple condiciones para garantía (Sí / No implícito)
+REVISADO_TECNICO;Documento revisado por área técnica (Sí)
+TIPO_FIRMA;Tipo de firma 
+ENTIDAD_CERT;Entidad certificadora
+MARCO_LEGAL;Marco legal de la firma
+COND_COPIA;Condición de copia impresa
+CONCEPTO_GARANTIA;Concepto de la garantía
+VR_COMERCIAL;Valor comercial determinado del inmueble
+VR_ASEGURABLE;Valor asegurable (COP)
+TIPO_CREDITO;Tipo de crédito
+NOM_PROPIETARIO;Nombre del propietario
+DOCS_SUMINISTRADOS;Documentos suministrados
+VIGENCIA_AVA;Vigencia del avalúo (según destino del crédito)
+INMUEBLE_USADO_NUEVO;Tipo de inmueble (usado / nuevo)
+PISO_LOCALIZA;Piso donde se localiza (si aplica)
+RPH_SN;Régimen de propiedad horizontal (Sí / No)
+NOTAS_TECNICAS;Notas técnicas y legales (NOTA 1, NOTA 2, NOTA 3…)
+NUM_ESCRITURA;Número de escritura
+FECHA_ESCRITURA;Fecha de escritura
+NUM_NOTARIA;Número de notaría
+MUN_NOTARIA;Municipio de la notaría
+DEP_NOTARIA;Departamento de la notaría
+CHIP;CHIP catastral
+CED_CATASTRAL;Cédula catastral
+TIPO_PROPIEDAD;Tipo de propiedad
+SOMETIDO_PH_SN;Predio sometido a P.H. (Sí / No)
+COEFICIENTE;Coeficiente de copropiedad
+LIC_CONSTRUC;Licencia de construcción
+AREA_ACTIVIDAD;Área de actividad
+USO_PRINCIPAL;Uso principal
+TOTAL_UNIDADES_VIV;Total unidades de vivienda
+NUM_EDIFICIOS;Número de edificios
+UNI_X_PISO;Número de unidades por piso
+UBICACION;Ubicación del inmueble
+TIPO_CONJUNTO;Tipo de conjunto
+AREA_VALORADA;Área valorada
+AREA_PRIVADA;Área privada
+AREA_CONSTRUIDA;Área construida total del inmueble
+COEF_AP_AC;Coeficiente AP/AC
+AREA_CATASTRAL;Área catastral
+AREA_MEDIDA;Área medida en inspección
+AREA_LIBRE;Área libre
+TIPO_AREA_LIBRE;Tipo de área libre
+AREA_LOTE;Área total del lote
+OBS_TECNICAS_MEDICION;Observaciones técnicas sobre medición
+FUENTE_AREAS;Fuente de áreas (CTL, medición, escritura)
+TIEMPO_COMERCIALIZACION;Tiempo esperado de comercialización (meses)
+COMPORT_OFERTA_DEMANDA;Comportamiento de oferta y demanda (texto)
+DESC_SECTOR;Descripción general del sector
+TIPO_CONST_SECTOR;Tipo de construcciones
+ACTIVIDAD_INMOB;Actividad inmobiliaria
+TIPO_VIAS;Tipo de vías
+ESTADO_VIAS;Estado de las vías
+ACTUALIDAD_EDIFICADORA;Actualidad edificadora
+DEMANDA_INTERES;Demanda / Interés
+USO_PREDOMINANTE;Uso predominante
+LEGALIDAD_SECTOR;Legalidad
+TRANSPORTE;Transporte
+IMPACTO_AIRE_SN;Aire
+IMPACTO_AGUAS_SN;Aguas servidas
+IMPACTO_INSEGURIDAD_SN;Inseguridad
+IMPACTO_RUIDO_SN;Ruido
+IMPACTO_BASURA_SN;Basura
+OBS_IMPACTO_AMBIENTAL;Observaciones ambientales
+ESTADO_CONSTRUCCION;Estado de la construcción
+AVANCE_OBRA_PCT;Avance de obra (%)
+NUM_PISOS;Número de pisos del inmueble
+NUM_SOTANOS;Número de sótanos
+VIDA_UTIL;Vida útil
+VIDA_REMANENTE;Vida remanente
+ANIO_CONSTRUCCION;Año de construcción
+EDAD_INMUEBLE;Edad
+SISTEMA_ESTRUCTURAL;Sistema estructural
+MATERIAL_ESTRUCTURA;Material de estructura
+ESTADO_ESTRUCTURA;Estado de la estructura
+REMODELADO_SN;Indica si el inmueble ha sido remodelado
+AJUSTE_SISMORRESISTENTE;Ajuste sismorresistente
+TIPO_CUBIERTA;Tipo de cubierta
+FACHADA;Fachada
+TIPO_FACHADA;Tipo de fachada (rango metros)
+DAÑOS_PREVIOS;Daños previos
+ILUMINACION;Iluminación
+VENTILACION;Ventilación
+IRREG_PLANTA_SN;Irregularidad en planta
+IRREG_ALTURA_SN;Irregularidad en altura
+OBS_ESTRUCTURA;Comentarios técnicos de estructura
+DESC_EQUIPAMIENTO;Descripción general del equipamiento (nivel y distancia)
+VIAS_ACCESO_ESTADO;Estado de vías de acceso
+PAVIMENTADAS_SN;Pavimentadas (Sí / No)
+ANDENES_SN;Andenes (Sí / No)
+SARDINELES_SN;Sardineles (Sí / No)
+ACUEDUCTO_SECTOR;Acueducto (sector / predio)
+ALCANTARILLADO_SECTOR;Alcantarillado (sector / predio)
+ENERGIA_SECTOR;Energía eléctrica
+TELEFONIA_SECTOR;Telefonía
+GAS_SECTOR;Gas natural
+ALAMEDAS_SN;Alamedas
+ALUMBRADO_SN;Alumbrado
+ARBORIZACION_SN;Arborización
+CICLORUTAS_SN;Ciclorutas
+PARADERO_SN;Paradero
+PARQUES_SN;Parques
+ZONAS_VERDES_SN;Zonas verdes
+PERSPECTIVA_VALORIZACION;Texto descriptivo de perspectivas
+SERV_ACUEDUCTO;Acueducto
+SERV_ALCANTARILLADO;Alcantarillado
+SERV_ENERGIA;Energía eléctrica
+SERV_GAS;Gas natural
+SERV_TELEFONIA;Telefonía
+CARP_METALICA_EST;Carpintería metálica
+CARP_MADERA_EST;Carpintería en madera
+PISOS_EST;Estado de Pisos
+MUROS_EST;Estado de Muros
+TECHOS_EST;Estado de Techos
+COCINA_EST;Estado de Cocina
+BANOS_EST;Estado de Baños
+NUM_ALCOBAS;Número de Alcobas
+ALCOBA_SERVICIO_SN;Alcoba de servicio(Si/No)
+BALCON_SN;Balcón(Si/No)
+BANO_SERVICIO_SN;Baño de servicio(Si/No)
+BANO_PRIVADO_SN;Baño privado(Si/No)
+BANO_SOCIAL_SN;Baño social(Si/No)
+COCINA_SN;Cocina(Si/No)
+COMEDOR_SN;Comedor(Si/No)
+ESTAR_SN;Estar(Si/No)
+ESTUDIO_SN;Estudio(Si/No)
+JARDIN_SN;Jardín(Si/No)
+PATIO_INT_SN;Patio interior(Si/No)
+SALA_SN;Sala(Si/No)
+TERRAZA_SN;Terraza(Si/No)
+ZONA_ROPAS_SN;Zona de ropas(Si/No)
+CLOSETS_SN;Closets(Si/No)
+PREDIO_SUBDIV_SN;Predio subdividido físicamente (Sí / No)
+VALOR_ADMINISTRACION;Valor administración (tiene / no tiene)
+ADMIN_M2;Valor administración m²
+VIGILANCIA_SN;Vigilancia privada (Sí / No)
+NUM_ASCENSORES;Número de Ascensores
+TOTAL_GARAJES;Total garajes
+GARAJE_USO_EXCLUSIVO_SN;Garaje Uso exclusivo(Sí/No)
+GARAJE_COMUNAL_SN;Garaje Bahía comunal(Sí/No)
+GARAJE_CUBIERTO_SN;Garaje Cubierto(Sí/No)
+GARAJE_DESCUBIERTO_SN;Garaje Descubierto(Sí/No)
+GARAJE_DOBLE_SN;Garaje Doble(Sí/No)
+GARAJE_PRIVADO_SN;Garaje Privado(Sí/No)
+GARAJE_SENCILLO_SN;Garaje Sencillo(Sí/No)
+GARAJE_SERVIDUMBRE_SN;Garaje Servidumbre(Sí/No)
+BBQ_SN;BBQ(Sí/No)
+BICICLETERO_SN;Bicicletero(Sí/No)
+CCTV_SN;CCTV(Sí/No)
+CITOFONIA_SN;Citofonía(Sí/No)
+CLUB_HOUSE_SN;Club house(Sí/No)
+GIMNASIO_SN;Gimnasio(Sí/No)
+JUEGOS_INFANTILES_SN;Juegos infantiles(Sí/No)
+PISCINA_SN;Piscina(Sí/No)
+PLANTA_ELECTRICA_SN;Planta eléctrica(Sí/No)
+PORTERIA_SN;Portería(Sí/No)
+SALON_COMUNAL_SN;Salón comunal(Sí/No)
+SHUT_BASURAS_SN;Shut basuras(Sí/No)
+TANQUE_AGUA_SN;Tanque de agua(Sí/No)
+TERRAZA_COMUNAL_SN;Terraza comunal(Sí/No)
+VIGILANCIA_24H_SN;Vigilancia 24 horas(Sí/No)
+ZONA_VERDE_SN;Zona verde(Sí/No)
+DESC_ACABADOS;Descripción consolidated de acabados (pisos, muros, techos, etc.)
+COMPONENTE_EDIF;Descripción del componente edificado
+METODO_VALORACION;Método de valoración aplicado
+VR_TERRENO;Valor del terreno
+VR_EDIFICACIONES;Valor de las edificaciones
+VR_TOTAL;Valor total del inmueble
+VR_M2;Valor por metro cuadrado
+FECHA_BASE_VALOR;Fecha base del valor
+JUSTIFICACION_VALOR;Justificación técnica del valor adoptado
+VR_MIN;Valor mínimo de referencia
+VR_MEDIO;Valor máximo de referencia
+VR_MAX;Rango de variación aceptado
+DESVIACION_STD;Desviación estándar
+DISPERSION;Dispersión
+CROQUIS_INCLUIDO_SN;Croquis incluido (Sí / No)
+TIPO_CROQUIS;Tipo de croquis
+ORIENTACION_NORTE_SN;Orientación (Norte indicado: Sí / No)
+PAG_CROQUIS;Página del documento donde se encuentra el croquis
+NUM_FOTO;Número de fotografía
+TIPO_VISTA_FOTO;Tipo de vista de la foto
+DESC_FOTO;Descripción de fotografía
