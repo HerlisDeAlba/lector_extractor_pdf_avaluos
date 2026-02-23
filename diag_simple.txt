@@ -1,0 +1,12 @@
+OK bri=232.0 tex=35.0 uniq=94 W=2550 H=2985 kb=950.0 | CONJ RES NARANJOS DEL CANEY VIS_APTO RPH_51m2_2hab_3.png
+OK bri=232.0 tex=31.4 uniq=26 W=426 H=1024 kb=18.2 | N A_CASA NO RPH_0m2_7hab_2.jpeg
+NO bri=247.0 tex=19.6 uniq=64 W=2550 H=2985 kb=213.9 | N A_CASA NO RPH_0m2_7hab_3.png
+OK bri=224.0 tex=42.7 uniq=108 W=2550 H=2985 kb=1024.3 | N A_CASA NO RPH_0m2_7hab_4.png
+OK bri=247.0 tex=30.7 uniq=38 W=821 H=716 kb=40.2 | NO APLICA_CASA_171m2_4hab_1.png
+NO bri=115.0 tex=15.4 uniq=72 W=480 H=360 kb=23.0 | TURPIAL_CASA_91m2_3hab_1.jpeg
+OK bri=148.0 tex=43.1 uniq=89 W=1275 H=148 kb=15.4 | TURPIAL_CASA_91m2_3hab_2.jpeg
+OK bri=248.0 tex=18.1 uniq=204 W=527 H=329 kb=14.3 | TURPIAL_CASA_91m2_3hab_3.jpeg
+OK bri=209.0 tex=41.7 uniq=119 W=2408 H=2868 kb=1375.2 | TURPIAL_CASA_91m2_3hab_3.png
+OK bri=198.0 tex=46.4 uniq=159 W=2408 H=2868 kb=1458.7 | TURPIAL_CASA_91m2_3hab_3_1.png
+NO bri=125.0 tex=18.9 uniq=52 W=480 H=360 kb=13.5 | TURPIAL_CASA_91m2_3hab_4.jpeg
+NO bri=227.0 tex=18.6 uniq=54 W=2308 H=243 kb=44.5 | TURPIAL_CASA_91m2_3hab_6.png
